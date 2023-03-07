@@ -9,6 +9,7 @@ print('\033[1;33m-=-\033[m' * 10)
 
 num = int(input('Número: '))
 print('\033[1;33mPROCESSANDO...\033[m')
+sleep(2)
 
 if num < 0 or num > 5:
     print('\033[1;31mNúmero inválido!\033[m')
