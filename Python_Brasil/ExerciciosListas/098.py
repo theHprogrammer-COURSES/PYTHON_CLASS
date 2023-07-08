@@ -1,0 +1,1 @@
+# Path: EstruturaSequencial/098.py
