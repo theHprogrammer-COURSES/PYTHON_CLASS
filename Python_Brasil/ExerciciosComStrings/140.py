@@ -1,1 +1,0 @@
-# Path: EstruturaSequencial/140.py
