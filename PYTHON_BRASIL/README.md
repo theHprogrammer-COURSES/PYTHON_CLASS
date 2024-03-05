@@ -6,7 +6,7 @@ Repositório para soluções dos Exercícios propostos pela Python Brasil
 ## SUMÁRIO
 
 - [01 - Estrutura Sequencial](https://github.com/theHprogrammer/PYTHON_CLASS/blob/main/PYTHON_BRASIL/EstruturaSequecial.ipynb)
-- [02 - Estrutura de Decisão - Em breve](#)
+- [02 - Estrutura de Decisão](https://github.com/theHprogrammer/PYTHON_CLASS/blob/main/PYTHON_BRASIL/EstruturaDecisao.ipynb)
 - [03 - Estrutura de Repetição - Em breve](#)
 - [04 - Listas - Em breve](#)
 - [05 - Funções - Em breve](#)
